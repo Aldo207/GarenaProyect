@@ -1,3 +1,1 @@
 int hola=100
-
-float speed =100
